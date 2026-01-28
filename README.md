@@ -50,12 +50,13 @@ L’infrastructure inclut :
 ```
 
 .
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── providers.tf
-├── terraform.tfvars.example
-└── README.md
+├── alias-kubernetes.md
+├── demo-module-eks.tf
+├── LICENSE
+├── output.tf
+├── README.md
+├── terraform.tfvars
+└── variables.tf
 
 ````
 
